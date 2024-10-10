@@ -290,20 +290,20 @@ html {
       font-weight: lighter;
     }
 
-    /* CSS untuk 'special video' */
-.special-video {
-    text-align: center; /* Jika ingin teks di tengah */
-    margin-top: 20px; /* Beri jarak antara bagian ini dengan sebelumnya */
+/*     CSS untuk 'special video' */
+/* .special-video {
+    text-align: center;
+    margin-top: 20px;
 }
 
 .video-link {
-    color: #3498db; /* Warna teks tautan */
-    text-decoration: none; /* Hilangkan garis bawah default */
-    font-weight: bold; /* Buat teks tebal */
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .video-link:hover {
-    text-decoration: underline; /* Efek underline ketika hover */
-    color: #2980b9; /* Ubah warna saat hover */
-}
+    text-decoration: underline;
+    color: #2980b9; 
+} */
   }
